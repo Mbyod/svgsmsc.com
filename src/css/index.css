@@ -9,11 +9,19 @@ body {
   padding-bottom: 20px;
 }
 
+html,
+body {
+  height: 100%;
+}
+
 .wrapper {
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
-  overflow: hidden;
+  height: 100%;
+  /* overflow: hidden; */
+}
+main {
+  flex-grow: 1;
 }
 
 footer {
@@ -54,18 +62,23 @@ main {
 }
 
 main img {
-  width: 30%;
+  width: 60%;
   margin-bottom: 0;
   padding: 0;
 }
 
+.start-discover {
+  margin-bottom: 50px;
+}
+
 .tap-to-explore {
-  color: rgb(243, 242, 253);
-  font-size: 24px;
+  color: rgb(230, 207, 218);
+
+  font-size: 150%;
   position: absolute;
-  top: 50%;
+  top: 16%;
   left: 60%;
-  background-color: #050505;
+  /* background-color: #050505; */
   padding: 4px;
   border-radius: 10px;
 }

@@ -133,22 +133,10 @@ header {
   margin-bottom: 20px;
 }
 
-/* .map-responsive {
-  overflow: hidden;
-  padding-bottom: 56.25%;
-  position: relative;
-  height: 0;
-} */
-/* .map-responsive iframe {
-  left: 0;
-  top: 0;
-  height: 100%;
-  width: 100%;
-  position: absolute;
-} */
-
 .map-responsive iframe {
   width: 50%;
   height: 30vh;
   box-shadow: 1px 1px 15px #050505;
 }
+
+/* <-----------------------TRACKLIST HTML STYLE----------------------------> */
