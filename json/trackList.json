@@ -1,0 +1,18 @@
+{   "tracks": [
+    {
+    "img": "./img/tracksImg/CyberCrime.png" ,
+    "trackName" : "CyberCrime",
+    "artistName" : "Necxmvta" 
+    },
+    {
+    "img": "./img/tracksImg/Shitto.png" ,
+    "trackName" : "Shitto",
+    "artistName" : "Sxlstice" 
+    },
+    {
+        "img": "./img/tracksImg/Sxlstice.png" ,
+        "trackName" : "Shitto",
+        "artistName" : "Sxlstice" 
+    }
+    ]
+}
